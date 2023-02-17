@@ -17,9 +17,7 @@ The game is played on a 3x3 board, which is initially empty. The game is played 
 To make a move, enter a number from 1-9 when prompted. This represents the position on the board where you want to place your symbol, as shown below:
 
 1 | 2 | 3
----------
 4 | 5 | 6
----------
 7 | 8 | 9
 
 For example, if you want to place your symbol in the top-left corner, enter "1" when prompted.
